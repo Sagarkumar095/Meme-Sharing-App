@@ -28,7 +28,6 @@ annotationProcessor 'com.github.bumptech.glide:compiler:4.12.0'
 ## Installation
 Clone this repository and import into **Android Studio**
 ```bash
-git clone https://github.com/neelangshu007/Meme-Share-App.git
 ```
 
 ## Getting Started
